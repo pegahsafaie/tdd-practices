@@ -1,0 +1,15 @@
+{
+  "name": "session-2",
+  "version": "1.0.0",
+  "description": "- We practiced how to define domain entities in a tdd manner(in OOP context using xunit practices).\r - We wrote tdd unit test and each time we had a failure through test, we stopped writing tests and implement the code to reach greem status again\r - Important Note: **We write just the neessary code to reach green status. Refactoring comes later. **\r - The goal was to write unit tests which are Trustworthyness(should not be failed becaues of any not related exception!) and Maintainability(you dont need to modify your test again and again).",
+  "main": "tdd-test-for-city-domain-entity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
